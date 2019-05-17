@@ -1,0 +1,58 @@
+*{
+    font-family: 'Monoton', cursive;
+    color: black;
+    font-size: 36px;
+    line-height: 54px;
+}
+
+.xy{
+    color: green;
+}
+
+.button {
+    height: 50px;
+    width: 250px;
+    background-color: red;
+    color: azure
+}
+.button:hover{
+    height: 50px;
+    width: 250px;
+    background-color: orange;
+    color: azure;
+
+}
+.button:focus{
+    height: 50px;
+    width: 250px;
+    background-color: purple;
+    color: azure;
+
+}
+
+
+
+
+.text {
+
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 36px;
+    letter-spacing: 1px;
+    color: bisque;
+
+}
+
+.textbody{
+    position: relative;
+    left: 250px;
+    top: 100px;
+    width: 1200px;
+    border-width: 5px;
+    border-color: blue;
+    border-style: solid;
+    border-radius: 10px;
+
+    background-color: blue
+}
